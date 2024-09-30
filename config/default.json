@@ -1,0 +1,7 @@
+{
+  "elastic": {
+    "node": "https://localhost:9200",
+    "username": "${ELASTIC_USERNAME}",
+    "password": "${ELASTIC_PASSWORD}"
+  }
+}
